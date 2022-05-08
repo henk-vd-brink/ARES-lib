@@ -8,7 +8,7 @@ setup(
     author="Henk van den Brink",
     author_email="",
     license="MIT",
-    packages=["mqtt"],
+    packages=["ares"],
     install_requires=[
         "paho-mqtt==1.5.1",
     ],
